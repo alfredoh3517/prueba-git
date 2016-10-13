@@ -1,0 +1,50 @@
+[33mcommit 2aeceae402d4a1b0f7a290e6503084178829c1b1[m
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Thu Oct 13 18:05:48 2016 -0400
+
+    Hola solo
+
+[33mcommit 19d9b2174f174e86e2938e543048e174e4d2836c[m
+Merge: f5631eb 3928fd3
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 16:23:21 2016 -0400
+
+    yo recupere el archivo de david
+
+[33mcommit f5631eb4257b169c25b4949b494671680d0d9e5d[m
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 16:21:40 2016 -0400
+
+    Yo recupere archivo de david
+
+[33mcommit 3928fd3c1225269ab3c15db551a7ca6e89063fd0[m
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 16:15:31 2016 -0400
+
+    elimine archivo que creo david
+
+[33mcommit 47cfd496766729962edbd6d64853ff08293100b2[m
+Author: Alfredo Hernández <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 16:13:06 2016 -0400
+
+    este commit lo hizo david
+
+[33mcommit 9a1ebd0d5ab7aaac00d4f238ccc91fffdcdba7dd[m
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 15:46:38 2016 -0400
+
+    nuevo archivo desde develop
+
+[33mcommit a56b6c9566eddd977de3c2a9f786a3f5e7c9164f[m
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 15:38:56 2016 -0400
+
+    Coloque que paso
+
+[33mcommit 24cb71119b52a87451f2109a1abb797a46c01953[m
+Author: Alfredo Hernandez <alfredoh3517@gmail.com>
+Date:   Wed Oct 12 15:27:13 2016 -0400
+
+    Mi Primer Commit
+    
+    Realizando mi primer commit en git.
